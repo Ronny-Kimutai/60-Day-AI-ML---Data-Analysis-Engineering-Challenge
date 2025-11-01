@@ -1,12 +1,13 @@
-# ⚡ 60-Day AI/ML & Data Analysis Engineering Challenge ⚡
+# ⚡60-Day AI/ML & Data Analysis Engineering Challenge⚡
 
 ### 🎯 Goal
 To master **Artificial Intelligence, Machine Learning, and Data Analysis** through **daily engineering-based coding**, focusing on real-world applications in **electrical and energy systems** — such as predictive maintenance, energy forecasting, battery optimization, and smart grid analytics.
 
 This challenge is inspired by the growing intersection between **AI and the Energy Industry**, including:
-**EV Companies:** Tesla, Rivian, Roam Electric, BYD  
-**Solar & Renewable Energy Companies:** SunPower, M-KOPA Solar, Bboxx, Enphase Energy  
-**Energy Utilities & Grid Innovators:** Schneider Electric, Siemens Energy, General Electric, Kenya Power (KPLC)  
+
+**EV Companies:** Tesla, Rivian, Roam Electric, BYD etc.
+**Solar & Renewable Energy Companies:** SunPower, M-KOPA Solar, Bboxx, Enphase Energy etc.
+**Energy Utilities & Grid Innovators:** Schneider Electric, Siemens Energy, General Electric, Kenya Power (KPLC) etc. 
 
 ---
 
@@ -49,7 +50,7 @@ This challenge is inspired by the growing intersection between **AI and the Ener
 
 ## 🧰 Tech Stack
 `Python` • `Jupyter Notebook` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` •  
-`Scikit-Learn` • `XGBoost` • `LightGBM` • `Plotly` • `TensorFlow` *(optional)*  
+`Scikit-Learn` • `XGBoost` • `LightGBM` • `Plotly` • `TensorFlow` • `And Many More!` 
 
 ---
 
@@ -58,7 +59,7 @@ By the end of this challenge, I aim to:
 - ✅ Build a complete **AI/ML project for an energy or electrical system**  
 - ✅ Strengthen data analysis, visualization, and model tuning skills  
 - ✅ Be technically ready for roles in **AI, ML, and Energy Data Analytics**  
-- ✅ Align with opportunities in companies like **Tesla, Siemens Energy, Schneider Electric, or Roam Electric**
+- ✅ Align with opportunities in companies **In the Energy Space**
 
 ---
 
