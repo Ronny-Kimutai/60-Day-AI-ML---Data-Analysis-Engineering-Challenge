@@ -10,9 +10,6 @@ This challenge is inspired by the growing intersection between **AI and the Ener
 - **Solar & Renewable Energy Companies:** SunPower, M-KOPA Solar, Bboxx, Enphase Energy etc.
 - **Energy Utilities & Grid Innovators:** Schneider Electric, Siemens Energy, General Electric, Kenya Power (KPLC) etc. 
 ---
-
----
-
 ## 🧩 Focus Areas
 - Python for Data Science (NumPy, Pandas)
 - Data Cleaning, Visualization, and Feature Engineering
