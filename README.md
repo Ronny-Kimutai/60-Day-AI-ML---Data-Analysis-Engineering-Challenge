@@ -4,10 +4,11 @@
 To master **Artificial Intelligence, Machine Learning, and Data Analysis** through **daily engineering-based coding**, focusing on real-world applications in **electrical and energy systems** — such as predictive maintenance, energy forecasting, battery optimization, and smart grid analytics.
 
 This challenge is inspired by the growing intersection between **AI and the Energy Industry**, including:
-
-**EV Companies:** Tesla, Rivian, Roam Electric, BYD etc.
-**Solar & Renewable Energy Companies:** SunPower, M-KOPA Solar, Bboxx, Enphase Energy etc.
-**Energy Utilities & Grid Innovators:** Schneider Electric, Siemens Energy, General Electric, Kenya Power (KPLC) etc. 
+---
+- **EV Companies:** Tesla, Rivian, Roam Electric, BYD etc.
+- **Solar & Renewable Energy Companies:** SunPower, M-KOPA Solar, Bboxx, Enphase Energy etc.
+- **Energy Utilities & Grid Innovators:** Schneider Electric, Siemens Energy, General Electric, Kenya Power (KPLC) etc. 
+---
 
 ---
 
