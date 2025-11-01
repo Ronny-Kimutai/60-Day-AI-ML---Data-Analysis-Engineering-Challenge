@@ -1,7 +1,12 @@
-# ⚡ 60-Day AI/ML & Data Analysis Engineering Challenge (Nov–Dec)
+# ⚡ 60-Day AI/ML & Data Analysis Engineering Challenge ⚡
 
 ### 🎯 Goal
-To master **Artificial Intelligence, Machine Learning, and Data Analysis** through **daily engineering-based coding**, focusing on real-world applications in **electrical and energy systems** such as predictive maintenance, energy forecasting, and smart grid analytics.
+To master **Artificial Intelligence, Machine Learning, and Data Analysis** through **daily engineering-based coding**, focusing on real-world applications in **electrical and energy systems** — such as predictive maintenance, energy forecasting, battery optimization, and smart grid analytics.
+
+This challenge is inspired by the growing intersection between **AI and the Energy Industry**, including:
+**EV Companies:** Tesla, Rivian, Roam Electric, BYD  
+**Solar & Renewable Energy Companies:** SunPower, M-KOPA Solar, Bboxx, Enphase Energy  
+**Energy Utilities & Grid Innovators:** Schneider Electric, Siemens Energy, General Electric, Kenya Power (KPLC)  
 
 ---
 
@@ -35,7 +40,7 @@ To master **Artificial Intelligence, Machine Learning, and Data Analysis** throu
 - 📝 Document each day’s progress (notebook + short notes)  
 - 📊 Summarize each week in `summary.md`  
 
-> Example Daily Flow:
+> **Example Daily Flow:**
 > 1. Pick a dataset or problem (e.g. motor temperature trends).  
 > 2. Apply that week’s ML or analysis technique.  
 > 3. Document findings with visuals or insights.  
@@ -43,7 +48,8 @@ To master **Artificial Intelligence, Machine Learning, and Data Analysis** throu
 ---
 
 ## 🧰 Tech Stack
-`Python` • `Jupyter Notebook` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-Learn` • `XGBoost` • `LightGBM` • `Plotly`• `And Many More!`
+`Python` • `Jupyter Notebook` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` •  
+`Scikit-Learn` • `XGBoost` • `LightGBM` • `Plotly` • `TensorFlow` *(optional)*  
 
 ---
 
@@ -51,19 +57,8 @@ To master **Artificial Intelligence, Machine Learning, and Data Analysis** throu
 By the end of this challenge, I aim to:
 - ✅ Build a complete **AI/ML project for an energy or electrical system**  
 - ✅ Strengthen data analysis, visualization, and model tuning skills  
-- ✅ Be technically ready for roles in **AI, ML, and Energy Data Analytics**
-
----
-
-## 🌱 Progress Tracker
-- [ ] Week 1 → Python & Pandas  
-- [ ] Week 2 → Data Cleaning & Visualization  
-- [ ] Week 3 → Exploratory Data Analysis  
-- [ ] Week 4 → Regression Models  
-- [ ] Week 5 → Classification Models  
-- [ ] Week 6 → Clustering  
-- [ ] Week 7 → Advanced ML (XGBoost, LightGBM)  
-- [ ] Week 8 → Final Project  
+- ✅ Be technically ready for roles in **AI, ML, and Energy Data Analytics**  
+- ✅ Align with opportunities in companies like **Tesla, Siemens Energy, Schneider Electric, or Roam Electric**
 
 ---
 
@@ -74,7 +69,7 @@ You can source open datasets from:
 - [OpenEI Energy Data](https://openei.org/)
 - [Data.gov Energy Section](https://catalog.data.gov/dataset?tags=energy)
 
-> Examples:  
+> **Examples:**  
 > - EV battery temperature and SOC data  
 > - Smart meter readings  
 > - Transformer fault and vibration logs  
@@ -84,4 +79,4 @@ You can source open datasets from:
 
 📅 **Duration:** 60 Days (November–December)  
 ⚙️ **Discipline:** Learn → Build → Analyze → Share  
-🔥 **Motto:** _“Engineer intelligent energy systems through AI and data.”_
+🔥 **Motto:** _“Engineer intelligent energy systems through AI and data.”_  
